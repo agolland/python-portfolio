@@ -60,6 +60,40 @@ Key Features:
 - Loops
 - Random Library
 
+Project 6: Magic 8 Ball
+
+Summary: Create a Magic 8 Ball program using Python. The program should generate random answers from a predefined list of responses and provide a user-friendly interface for asking questions and receiving answers.
+
+Key Features: 
+- List variable named "responses"
+- Random Library
+- Top Down Design organization
+- Print Statements
+
+Project 7: Slot Machine 
+
+Summary: Developed a simple text-based slot machine game using Python. The slot machine will have three slots, and the player will have the opportunity to spin the slots and try to match three symbols in a row.
+
+Key Features: 
+- Random Library
+- Loops
+- Variables
+- Strings
+- Time
+- Top Down Design organization
+
+Project 8: Tetris Score Analysis
+
+Summary: Created a Python program that processes a list of Tetris scores. The Tetris list contains the top 100 scores of all time.
+
+Key Feautures:
+- Lists
+- Return function
+- Global Variable
+- Loops
+- Condtionals 
+
+
 
 
 
